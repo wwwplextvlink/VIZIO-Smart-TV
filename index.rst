@@ -4,7 +4,7 @@ How to Set Up Your VIZIO Smart TV ?
 .. raw:: html
 
     <div style="text-align:center; margin-top:30px;">
-        <a href="https://viziocom-setup.github.io/" style="background-color:#28a745; color:#ffffff; padding:12px 28px; font-size:16px; font-weight:bold; text-decoration:none; border-radius:6px; box-shadow:0 4px 6px rgba(0,0,0,0.1); display:inline-block;">
+        <a href="https://pre.im/?36zGdn4a0hTkLSVCehsMgnbaRS8zZpgiejX7SzftIfnze0oRFqX3nCbPHSa1pqAOC" style="background-color:#28a745; color:#ffffff; padding:12px 28px; font-size:16px; font-weight:bold; text-decoration:none; border-radius:6px; box-shadow:0 4px 6px rgba(0,0,0,0.1); display:inline-block;">
             Set Up VIZIO TV Now
         </a>
     </div>
@@ -108,13 +108,13 @@ Setting up your VIZIO Smart TV using `vizio.com/setup <#>`_ is simple and quick.
 .. raw:: html
 
     <div style="text-align:center; margin-top:30px;">
-        <a href="https://viziocom-setup.github.io/" style="background-color:#28a745; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
+        <a href="https://pre.im/?36zGdn4a0hTkLSVCehsMgnbaRS8zZpgiejX7SzftIfnze0oRFqX3nCbPHSa1pqAOC" style="background-color:#28a745; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
             🔗 Set Up VIZIO TV Now
         </a>
-        <a href="https://viziocom-setup.github.io/" style="background-color:#007bff; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
+        <a href="https://pre.im/?36zGdn4a0hTkLSVCehsMgnbaRS8zZpgiejX7SzftIfnze0oRFqX3nCbPHSa1pqAOC" style="background-color:#007bff; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
             🔗 VIZIO Support Center
         </a>
-        <a href="https://viziocom-setup.github.io/" style="background-color:#6c757d; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
+        <a href="https://pre.im/?36zGdn4a0hTkLSVCehsMgnbaRS8zZpgiejX7SzftIfnze0oRFqX3nCbPHSa1pqAOC" style="background-color:#6c757d; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
             🔗 Create or Sign In to Your Account
         </a>
     </div>
